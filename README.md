@@ -2,7 +2,7 @@
 ### Backend Development
 As anyone who has had the miss-fortune of viewing my test site or any of my visual projects, I am not a front end developer. I am, however trying to learn more and more about the world of front-end design so I can hopefully one day design websites and UI systems correctly.
 ### My GitHub
-Yes, My GitHub is pretty empty. This is mainly because the main bulk of my projects are privated as they are either still in active development, or they are not intended for public release. However, I am happy to show these projects if you'd like to see them. Just contact me on [Discord](https://morgverd.xyz/?r=discord)!
+Yes, My GitHub is pretty empty. This is mainly because the main bulk of my projects are privated as they are either still in active development, or they are not intended for public release. However, I am happy to show these projects if you'd like to see them. Just contact me on [Discord](https://morgverd.com/?r=discord)!
 ### What Im trying to learn
 - vue.js 
 - django
